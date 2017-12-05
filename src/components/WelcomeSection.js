@@ -1,10 +1,24 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
+import Background from '../images/background.png'
+
+
+  var imgStyle = {
+    width: '400px',
+    margin: '100px'
+  }
+
+  var bgImg = {
+    backgroundImage: `url(${Background})`
+  }
+
+
 
 class WelcomeSection extends React.Component {
+
     render() {
 	return (
-    <h1>Remly Intro / About section</h1>
+    <div style={bgImg}><img style={imgStyle} src={ require('../images/remly-logo.png')}/></div>
 	);
     }
 }
