@@ -1,15 +1,19 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import Background from '../images/background.png'
+import Background from '../images/background.png';
+
+
 
 
   var imgStyle = {
-    width: '400px',
-    margin: '100px'
+    width: '50%',
+    margin: '50px'
   }
 
   var bgImg = {
-    backgroundImage: `url(${Background})`
+    backgroundImage: `url(${Background})`,
+    backgroundSize: 'cover',
+    overflow: 'hidden',
   }
 
 

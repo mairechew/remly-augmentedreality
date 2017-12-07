@@ -2,10 +2,21 @@ import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import Gallery from 'react-photo-gallery';
 
+
+var galleryDesign = {
+  margin: '20px'
+}
+
+
+
+
+
 export default class Sample extends React.Component {
     render() {
 	return (
+    <div style={galleryDesign}>
 	    <Gallery columns={2} photos={PHOTO_SET} />
+    </div>
 	);
     }
 }

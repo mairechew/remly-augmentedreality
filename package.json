@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aws-sdk": "^2.164.0",
+    "flexbox-react": "^4.4.0",
     "material-ui": "^0.19.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-fluid-header": "^1.0.4",
     "react-photo-gallery": "^6.0.18",
+    "react-responsive": "^4.0.3",
     "react-scripts": "1.0.17"
   },
   "scripts": {
