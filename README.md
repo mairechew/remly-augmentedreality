@@ -37,7 +37,7 @@ If you have downloaded the Remly App (TestFlight Beta version) - you will need t
 * [Unity](https://unity3d.com/) - The web framework used
 * [Vuforia](https://www.vuforia.com/) - AR Platform
 * [Google Poly](https://poly.google.com/) - 3D Layers
-* [React] (https://reactjs.org/) - Used to build landing page
+* [React](https://reactjs.org/) - Used to build landing page
 
 
 ## Authors
