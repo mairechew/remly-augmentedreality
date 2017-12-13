@@ -4,7 +4,7 @@ An iOS App built to add a layer of augmented reality to business card distributi
 
 # Landing Page
 
-http://remly.tech/ - Build in React
+http://remly.tech/ - Built in React
 
 ## Screenshots
 
