@@ -6,9 +6,15 @@ An iOS App built to add a layer of augmented reality to business card distributi
 
 http://remly.tech/
 
+## Screenshots
+
 ## API 
 
 https://remly-api.herokuapp.com/api/v1/urls
+
+## Database build with PSQL
+
+https://github.com/mairechew/remly-server
 
 
 ## Installing
