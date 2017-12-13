@@ -6,12 +6,15 @@ An iOS App built to add a layer of augmented reality to business card distributi
 
 http://remly.tech/ - Built in React
 
-## Screenshots
+## 2D Business Card
 
 ![Business Card](https://github.com/mairechew/remly-augmentedreality/blob/master/1.jpg)
 ![Carnival Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/2.jpg)
 ![Jungle Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/3.jpg)
 ![Bakery Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/4.jpg)
+
+# AR Layer Added
+
 ![AR Layer](https://github.com/mairechew/remly-augmentedreality/blob/master/IMG_03861.png)
 
 ## API 
