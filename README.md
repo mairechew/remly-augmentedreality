@@ -4,7 +4,7 @@ An iOS App built to add a layer of augmented reality to business card distributi
 
 # Landing Page
 
-http://remly.tech/
+http://remly.tech/ - Build in React
 
 ## Screenshots
 
@@ -31,6 +31,7 @@ If you have downloaded the Remly App (TestFlight Beta version) - you will need t
 * [Unity](https://unity3d.com/) - The web framework used
 * [Vuforia](https://www.vuforia.com/) - AR Platform
 * [Google Poly](https://poly.google.com/) - 3D Layers
+* [React] (https://reactjs.org/) - Used to build landing page
 
 
 ## Authors
