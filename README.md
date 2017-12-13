@@ -1,10 +1,15 @@
-# Remly - Adding Augmented Reality to Networking - iOS Beta App
+# Remly - Adding Augmented Reality to Networking 
 
-## API 
-https://remly-api.herokuapp.com/api/v1/urls
+An iOS App built to add a layer of augmented reality to business card distribution
 
 # Landing Page
+
 http://remly.tech/
+
+## API 
+
+https://remly-api.herokuapp.com/api/v1/urls
+
 
 ## Installing
 
@@ -30,8 +35,6 @@ If you have downloaded the Remly App (TestFlight Beta version) - you will need t
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
 
 
