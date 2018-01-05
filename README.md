@@ -2,29 +2,15 @@
 
 An iOS App built to add a layer of augmented reality to business card distribution
 
-# Landing Page
+## Landing Page
 
 http://remly.tech/ - Built in React
 
-## 2D Business Card
+## Problem
+Networking through business card distribution is typically an uneventful exchange and recipients have little to zero resources on memory who handed them the card or about the business as a whole. 
 
-![Business Card](https://github.com/mairechew/remly-augmentedreality/blob/master/1.jpg)
-![Carnival Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/2.jpg)
-![Jungle Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/3.jpg)
-![Bakery Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/4.jpg)
-
-# AR Layer Added
-
-![AR Layer](https://github.com/mairechew/remly-augmentedreality/blob/master/IMG_03861.png)
-
-## API 
-
-https://remly-api.herokuapp.com/api/v1/urls
-
-## Database build with PSQL
-
-https://github.com/mairechew/remly-server
-
+## Hypothesis
+If we provide an app that allows users to interact with an AR layer on top of the business cards we can reinvent the relationship with business cards and marketing with business cards as a whole so that recipients leave networking events excited to connect and follow-up with new contacts.
 
 ## Installing
 
@@ -33,6 +19,28 @@ If you are interested in getting access to the TestFlight Beta App - please emai
 ## Getting Started
 
 If you have downloaded the Remly App (TestFlight Beta version) - you will need to access the following images to see the augmented reality layer
+
+## 2D Business Card
+
+![Business Card](https://github.com/mairechew/remly-augmentedreality/blob/master/1.jpg)
+![Carnival Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/2.jpg)
+![Jungle Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/3.jpg)
+![Bakery Demo Card](https://github.com/mairechew/remly-augmentedreality/blob/master/4.jpg)
+
+## AR Layer Added
+
+![AR Layer](https://github.com/mairechew/remly-augmentedreality/blob/master/IMG_03861.png)
+
+## Reflection / Improvements
+I would love for users to be able to interact with the AR layer and link buttons to the 3D images that could redirect to a company's individual app or social media profile. 
+
+## API 
+
+https://remly-api.herokuapp.com/api/v1/urls
+
+## Database build with PSQL
+
+https://github.com/mairechew/remly-server
 
 
 ## Built With
